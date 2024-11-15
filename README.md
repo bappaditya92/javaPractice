@@ -1,1 +1,1 @@
-# javaPractice
+# This repository is used for my java practice
