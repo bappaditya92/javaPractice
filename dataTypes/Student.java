@@ -1,4 +1,11 @@
 package dataTypes;
 
-public class student {
+public class Student {
+    String name;
+    int age;
+    String gender;
+    String address;
+    int rollno;
+
+
 }

@@ -40,5 +40,8 @@ class Test{
 
 //        boolean data = true;
 //        System.out.println(data);
+
+
+        System.out.println(1);
   }
 }
